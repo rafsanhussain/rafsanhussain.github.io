@@ -2,7 +2,7 @@
 
 ![Image](https://drive.google.com/file/d/1s73AODK1wLcdxpRisc1pJ_JVKM-mZiFo/view?usp=sharing)
 
-<p>I am a premium level Graphic Designer. My expertise is expressed with skill, competence & knowledge to create amazing work that will benefit you. I can design logos, banners, posters, brochures, business-cards, flyers, magazine-cover, newsletters, and I am an Office365 expert. Act now and discover my proven work. Want to express the power as an expert, in order to create benefits to the organization. Your organization could trust me and I believe that you wouldn't be mortified with my work.</p>
+<p>I am a premium level Graphic Designer. My expertise is expressed with skill, competence & knowledge to create amazing work that will benefit you. I can design logos, banners, posters, brochures, business-cards, flyers, magazine-cover, newsletters, and I am an Office365 expert. Act now and discover my proven work. I want to express the power as an expert, in order to create benefits to the organization. Your organization could trust me and I believe that you wouldn't be mortified with my work.</p>
 
 ### EDUCATIONAL PURSUIT
 
@@ -31,8 +31,8 @@ Group: Science, Board: Sylhet
 ### PROFESSIONAL TRAINING / DEVELOPMENT PROGRAM:
 
 **EMPLOYER 1**<br/>
-FROM: October 1, 2018<br/>	
-TO: January 31, 2019<br/>
+From: October 1, 2018<br/>	
+To: January 31, 2019<br/>
 Position: Junior Consultant (GIS) for support to RIMS Unit<br/>
 Employer: Support to the DPP Preparation of SUFAL Project<br/>
 Major Duties performed:<br/>
@@ -42,8 +42,8 @@ _•	Developed a process or framework for Site-Specific Planning for the project
 •	Assist development of monitoring framework for biophysical interventions (about 75,000 ha) under the auspices of SUFAL project._
 
 **EMPLOYER 2**<br/>
-FROM: November, 2016	<br/>
-TO: September, 2018<br/>
+From: November, 2016	<br/>
+To: September, 2018<br/>
 Position: Technical Expert<br/>
 Employer: Food and Agriculture Organization (FAO)<br/>
 Major Duties performed:<br/>
@@ -51,27 +51,27 @@ _•	A key member of the National Forest Inventory Team and collected field data
 •	The project is implementing by Bangladesh Forest Department with the financial assistance of USAID and technical assistance from FAO of the United Nations and SilvaCarbon of the USFS._
 
 **EMPLOYER 3**<br/>
-FROM: February, 2013<br/>
-TO: October, 2019<br/>
+From: February, 2013<br/>
+To: October, 2019<br/>
 Position: Graphic Design Expert<br/>
 Employer: Upwork<br/>
 Major Duties performed:<br/>
 _•	A premium level Graphic Designer. <br/>
 •	My expertise is expressed with skill, competence & knowledge to different graphic works. I am an Office365 expert also. <br/>
 •	I worked for around 215 tasks for around 100 clients.<br/>
-•	Portfolio link: https://bit.ly/2GoGV5N _
+•	Portfolio link: [Link](https://bit.ly/2GoGV5N)_
 
 **EMPLOYER 4**<br/>
-FROM: February, 2014	<br/>
-TO: February, 2014<br/>
+From: February, 2014	<br/>
+To: February, 2014<br/>
 Position: Data Collector<br/>
 Employer: IUCN<br/>
 Major Duties performed:<br/>
 _•	Collected forest oriented vegetation data from the project area for “Volume Survey of Plantation for Harvesting Initiatives in Tanguar Haor Project._
 
 **EMPLOYER 5**<br/>
-FROM: December 11, 2012	<br/>
-TO: December 20, 2012<br/>
+From: December 11, 2012	<br/>
+To: December 20, 2012<br/>
 Position: Data Collector<br/>
 Employer: IUCN<br/>
 Major Duties performed:<br/>
@@ -99,8 +99,8 @@ Bengali: Excellent in speaking, reading and writing<br/>
 English: Excellent in speaking, reading and writing
 
 ### MEMBERSHIP:
-Lifetime Member, <br/>
-Green Explore Society, A non-political, student oriented, nature and environment based organization. 
+Lifetime Member, Green Explore Society<br/>
+A non-political, student oriented, nature and environment based organization. 
 
 ### PERSONAL INFORMATION
 
@@ -113,9 +113,4 @@ Marital Status: Single<br/>
 Permanent Address: Block: A, House No: 50/1, Kumar Para, Sylhet -3100
 
 
-
-
-```markdown
-**Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image](src)
-```
