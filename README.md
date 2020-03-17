@@ -121,7 +121,7 @@ Permanent Address: Block: A, House No: 50/1, Kumar Para, Sylhet -3100 [_Directio
 [Freelancer ↗](https://www.freelancer.com/u/rafsan456?w=f&ngsw-bypass=)<br/>
 [Fiverr ↗](https://www.fiverr.com/rafsanhussain?up_rollout=true)
 
-**Contact Info**
-[Email ↗](mailto:rafsan.hussain@gmail.com)
-[Mobile 1 ↗](tel:+8801672207031)
-[Mobile 2 ↗](tel:+8801723326065)
+**Contact Info**<br/>
+[Email To ↗](mailto:rafsan.hussain@gmail.com)<br/>
+[Mobile-1 ↗](tel:+8801672207031)<br/>
+[Mobile-2 ↗](tel:+8801723326065)<br/>
