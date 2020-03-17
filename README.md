@@ -3,7 +3,7 @@
 I am a premium level Graphic Designer. My expertise is expressed with skill, competence & knowledge to create amazing work that will benefit you. I can design logos, banners, posters, brochures, business-cards, flyers, magazine-cover, newsletters, and I am an Office365 expert. Act now and discover my proven work. Want to express the power as an expert, in order to create benefits to the organization. Your organization could trust me and I believe that you wouldn't be mortified with my work.
 
 ### EDUCATIONAL PURSUIT
-```
+
 **Master of Science in Forestry from the Department of Forestry and Environmental Science**
 Shahjalal University of Science & Technology, Sylhet-3114
 Session: 20013-14
@@ -19,7 +19,7 @@ Session: 2009-10 (Exam held on: 2014)
 Jalalabad Cantonment Public School and College, Sylhet
 Session: 2006-07 (Exam held on: 2008) 
 Group: Science, Board: Sylhet
-```
+
 
 ### TECHNICAL SKILLS
 **- Application Package:** MS Word, MS Excel, MS PowerPoint, MS Publisher, MS Access.
@@ -101,7 +101,7 @@ Lifetime Member,
 Green Explore Society, A non-political, student oriented, nature and environment based organization. 
 
 ### PERSONAL INFORMATION
-```
+
 Father’s Name: Md. Liaquat Hussain
 Mother’s Name: Shabera Begum
 Date of Birth: August 5, 1990
@@ -109,7 +109,6 @@ Nationality: Bangladeshi
 Religion:	Islam
 Marital Status: Single
 Permanent Address: Block: A, House No: 50/1, Kumar Para, Sylhet -3100
-```
 
 
 
