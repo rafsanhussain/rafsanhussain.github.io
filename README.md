@@ -1,6 +1,6 @@
 ## Md Rafsan Hussain
 
-I am a premium level Graphic Designer. My expertise is expressed with skill, competence & knowledge to create amazing work that will benefit you. I can design logos, banners, posters, brochures, business-cards, flyers, magazine-cover, newsletters, and I am an Office365 expert. Act now and discover my proven work. Want to express the power as an expert, in order to create benefits to the organization. Your organization could trust me and I believe that you wouldn't be mortified with my work.
+<p>I am a premium level Graphic Designer. My expertise is expressed with skill, competence & knowledge to create amazing work that will benefit you. I can design logos, banners, posters, brochures, business-cards, flyers, magazine-cover, newsletters, and I am an Office365 expert. Act now and discover my proven work. Want to express the power as an expert, in order to create benefits to the organization. Your organization could trust me and I believe that you wouldn't be mortified with my work.</p>
 
 ### EDUCATIONAL PURSUIT
 
