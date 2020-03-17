@@ -7,7 +7,7 @@
 ### EDUCATIONAL PURSUIT
 
 **Master of Science in Forestry from the Department of Forestry and Environmental Science**,<br/>
-[Shahjalal University of Science & Technology, Sylhet-3114](https://www.sust.edu/)<br/><br/>
+[Shahjalal University of Science & Technology, Sylhet-3114](https://www.sust.edu/)<br/>
 Session: 20013-14<br/>
 Passing Year: 2014 (Exam held on: 2015)<br/>
 **Dissertation:** _Effect of Forest Composition and Disturbance on the Bird Community of Satchari National Park_
@@ -30,7 +30,7 @@ Group: Science, Board: Sylhet
 
 ### PROFESSIONAL TRAINING / DEVELOPMENT PROGRAM:
 
-**EMPLOYER 1**<br/>
+**Employer 1**<br/>
 From: October 1, 2018<br/>	
 To: January 31, 2019<br/>
 Position: Junior Consultant (GIS) for support to RIMS Unit<br/>
@@ -41,7 +41,7 @@ _• Developed a process or framework for Site-Specific Planning for the project
 •	Conducted training on SSP at Divisional Forest offices for Range and Beat Officers.<br/>
 •	Assist development of monitoring framework for biophysical interventions (about 75,000 ha) under the auspices of SUFAL project._
 
-**EMPLOYER 2**<br/>
+**Employer 2**<br/>
 From: November, 2016	<br/>
 To: September, 2018<br/>
 Position: Technical Expert, [Bangladesh Forest Inventory](http://bfis.bforest.gov.bd/bfi/)<br/>
@@ -50,7 +50,7 @@ Major Duties performed:<br/>
 _• A key member of the National Forest Inventory Team and collected field data from all around the country. <br/>
 •	The project is implementing by Bangladesh Forest Department with the financial assistance of [USAID](https://www.usaid.gov/bd) and technical assistance from FAO of the United Nations and SilvaCarbon of the [USFS](https://www.fs.usda.gov/)._
 
-**EMPLOYER 3**<br/>
+**Employer 3**<br/>
 From: February, 2013<br/>
 To: March, 2020<br/>
 Position: Graphic Design Expert<br/>
@@ -61,19 +61,19 @@ _• A premium level Graphic Designer. <br/>
 •	I worked for around 220 tasks for around 100 clients.<br/>
 •	Portfolio link: [Click Here](https://bit.ly/2GoGV5N)_
 
-**EMPLOYER 4**<br/>
+**Employer 4**<br/>
 From: February, 2014	<br/>
 To: February, 2014<br/>
 Position: Data Collector<br/>
-Employer: [IUCN](https://www.iucn.org/asia/countries/bangladesh)<br/>
+Employer: International Union for Conservation of Nature ([IUCN](https://www.iucn.org/asia/countries/bangladesh))<br/>
 Major Duties performed:<br/>
 _Collected forest oriented vegetation data from the project area for “Volume Survey of Plantation for Harvesting Initiatives in Tanguar Haor Project._
 
-**EMPLOYER 5**<br/>
+**Employer 5**<br/>
 From: December 11, 2012	<br/>
 To: December 20, 2012<br/>
 Position: Data Collector<br/>
-Employer: [IUCN](https://www.iucn.org/asia/countries/bangladesh)<br/>
+Employer: International Union for Conservation of Nature ([IUCN](https://www.iucn.org/asia/countries/bangladesh))<br/>
 Major Duties performed:<br/>
 _Collected community oriented data in the rural areas for “Baseline Study of Community Based Sustainable Management of Tanguar Haor Project._
 
@@ -122,6 +122,6 @@ Permanent Address: Block: A, House No: 50/1, Kumar Para, Sylhet -3100 [_Directio
 [Fiverr ↗](https://www.fiverr.com/rafsanhussain?up_rollout=true)
 
 **Contact Info**<br/>
-[Email To ↗](mailto:rafsan.hussain@gmail.com)<br/>
-[Mobile-1 ↗](tel:+8801672207031)<br/>
-[Mobile-2 ↗](tel:+8801723326065)<br/>
+[Email ↗](mailto:rafsan.hussain@gmail.com)<br/>
+[Mobile 1 ↗](tel:+8801672207031)<br/>
+[Mobile 2 ↗](tel:+8801723326065)<br/>
