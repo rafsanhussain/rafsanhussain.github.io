@@ -1,6 +1,8 @@
-## Md Rafsan Hussain
+## Md. Rafsan Hussain
 
-<p>I am a premium level Graphic Designer. My expertise is expressed with skill, competence & knowledge to create amazing work that will benefit you. I can design logos, banners, posters, brochures, business-cards, flyers, magazine-cover, newsletters, and I am an Office365 expert. Act now and discover my proven work. I want to express the power as an expert, in order to create benefits to the organization. Your organization could trust me and I believe that you wouldn't be mortified with my work.</p>
+<p>I am always keen to expand the spectrum of my skills to fit into new research or job environments. Specifically, I am confident to adapt quickly and work in a team comprising personals from multiple disciplines. I always deliver what’s promised. Through solid organizational skills, interpersonal abilities, personal drive and enthusiasm, I made a positive impact on my portfolio. Act now and discover my portfolio.</p>
+
+<p>I am a premium level Graphic Designer. I can design logo, banner, poster, brochure, business-card, flyer, magazine-cover, newsletter, and I am an Office365 expert. I want to express the power as an expert, in order to create benefits to the organization. Your organization/institution could trust me and I believe that you wouldn't be mortified with my work.</p>
 
 ### EDUCATIONAL PURSUIT
 
@@ -23,7 +25,7 @@ Group: Science, Board: Sylhet
 
 ### TECHNICAL SKILLS
 **Application Package:** MS Word, MS Excel, MS PowerPoint, MS Publisher, MS Access.<br/>
-**Graphic Design Software:** Adobe Illustrator, Photoshop, InDesign, Adobe Flash, Adobe After Effects.<br/>
+**Graphic Design Software:** Adobe Illustrator, Photoshop, InDesign, Adobe Flash, After Effects.<br/>
 **Analysing Package:** SPSS, MATLAB, ArcGIS, ENVI, ERDAS, R-software, Agisoft.<br/>
 
 ### PROFESSIONAL TRAINING / DEVELOPMENT PROGRAM:
@@ -93,8 +95,8 @@ Conducted by, International Union for Conservation of Nature (IUCN).
 Took part on four weeks internship at **Citrus Research Station, Jaintapur, Sylhet**
 
 ### LANGUAGE PROFICIENCY:
-Bengali: Excellent in speaking, reading and writing<br/>
-English: Excellent in speaking, reading and writing
+Bengali: Excellent in speaking, reading, listening and writing<br/>
+English: Excellent in speaking, reading, listening and writing
 
 ### MEMBERSHIP:
 Lifetime Member, Green Explore Society<br/>
@@ -111,10 +113,10 @@ Marital Status: Single<br/>
 Permanent Address: Block: A, House No: 50/1, Kumar Para, Sylhet -3100
 
 
-**Click Below For Portfolio Links**
-[Facebook](https://www.facebook.com/mohammedrafsanhussain)<br/>
-[Twetter](https://twitter.com/rafsan_hussain)<br/>
-[LinkedIn](https://www.linkedin.com/in/rafsanhussain/)<br/>
-[Upwork](https://www.upwork.com/o/profiles/users/~0187e4cebda52df57c/)<br/>
-[Freelancer](https://www.freelancer.com/u/rafsan456?w=f&ngsw-bypass=)<br/>
-[Fiveer](https://www.fiverr.com/rafsanhussain?up_rollout=true)
+**Click Below For Portfolio Links**<br/>
+[Facebook ↗](https://www.facebook.com/mohammedrafsanhussain)<br/>
+[Twetter ↗](https://twitter.com/rafsan_hussain)<br/>
+[LinkedIn ↗](https://www.linkedin.com/in/rafsanhussain/)<br/>
+[Upwork ↗](https://www.upwork.com/o/profiles/users/~0187e4cebda52df57c/)<br/>
+[Freelancer ↗](https://www.freelancer.com/u/rafsan456?w=f&ngsw-bypass=)<br/>
+[Fiveer ↗](https://www.fiverr.com/rafsanhussain?up_rollout=true)
