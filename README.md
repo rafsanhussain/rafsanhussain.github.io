@@ -1,7 +1,5 @@
 ## Md Rafsan Hussain
 
-![Image](https://drive.google.com/file/d/1s73AODK1wLcdxpRisc1pJ_JVKM-mZiFo/view?usp=sharing)
-
 <p>I am a premium level Graphic Designer. My expertise is expressed with skill, competence & knowledge to create amazing work that will benefit you. I can design logos, banners, posters, brochures, business-cards, flyers, magazine-cover, newsletters, and I am an Office365 expert. Act now and discover my proven work. I want to express the power as an expert, in order to create benefits to the organization. Your organization could trust me and I believe that you wouldn't be mortified with my work.</p>
 
 ### EDUCATIONAL PURSUIT
@@ -24,9 +22,9 @@ Group: Science, Board: Sylhet
 
 
 ### TECHNICAL SKILLS
-**- Application Package:** MS Word, MS Excel, MS PowerPoint, MS Publisher, MS Access.<br/>
-**- Graphic Design Software:** Adobe Illustrator, Photoshop, InDesign, Adobe Flash, Adobe After Effects.<br/>
-**- Analysing Package:** SPSS, MATLAB, ArcGIS, ENVI, ERDAS, R-software, Agisoft.<br/>
+**Application Package:** MS Word, MS Excel, MS PowerPoint, MS Publisher, MS Access.<br/>
+**Graphic Design Software:** Adobe Illustrator, Photoshop, InDesign, Adobe Flash, Adobe After Effects.<br/>
+**Analysing Package:** SPSS, MATLAB, ArcGIS, ENVI, ERDAS, R-software, Agisoft.<br/>
 
 ### PROFESSIONAL TRAINING / DEVELOPMENT PROGRAM:
 
@@ -59,7 +57,7 @@ Major Duties performed:<br/>
 _•	A premium level Graphic Designer. <br/>
 •	My expertise is expressed with skill, competence & knowledge to different graphic works. I am an Office365 expert also. <br/>
 •	I worked for around 215 tasks for around 100 clients.<br/>
-•	Portfolio link: [Link](https://bit.ly/2GoGV5N)_
+•	Portfolio link: [Click Here](https://bit.ly/2GoGV5N)_
 
 **EMPLOYER 4**<br/>
 From: February, 2014	<br/>
@@ -92,7 +90,7 @@ Workshop on **“Birds of Tanguar Haor; Species Diversity, Habitat Utilization &
 Conducted by, International Union for Conservation of Nature (IUCN).
 
 ### INTERNSHIP TRAINING:
-Took part on four weeks internship at - "Citrus Research Station, Jaintapur, Sylhet”
+Took part on four weeks internship at **Citrus Research Station, Jaintapur, Sylhet**
 
 ### LANGUAGE PROFICIENCY:
 Bengali: Excellent in speaking, reading and writing<br/>
@@ -113,4 +111,9 @@ Marital Status: Single<br/>
 Permanent Address: Block: A, House No: 50/1, Kumar Para, Sylhet -3100
 
 
-[Link](url) and ![Image](src)
+[Facebook](https://www.facebook.com/mohammedrafsanhussain)
+[Twetter](https://twitter.com/rafsan_hussain)
+[LinkedIn](https://www.linkedin.com/in/rafsanhussain/)
+[Upwork](https://www.upwork.com/o/profiles/users/~0187e4cebda52df57c/)
+[Freelancer](https://www.freelancer.com/u/rafsan456?w=f&ngsw-bypass=)
+[Fiveer](https://www.fiverr.com/rafsanhussain?up_rollout=true)
