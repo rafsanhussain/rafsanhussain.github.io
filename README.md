@@ -6,7 +6,7 @@
 
 <p align="justify">I am always keen to expand the spectrum of my skills to fit into new research or job environments. Specifically, I am confident to adapt quickly and work in a team comprising personals from multiple disciplines. I always deliver what’s promised. Through solid organizational skills, interpersonal abilities, personal drive and enthusiasm, I made a positive impact on my portfolio. Act now and discover my portfolio.</p>
 
-<p>I am a premium level graphic designer. I can design logo, banner, poster, brochure, businesscard, flyer, magazine, newsletter, and I am an Office365 expert. I want to express the power as an expert, in order to create benefits to the organization. Your organization/institution could trust me and I believe that you would not be mortified with my work.</p>
+<p align="justify">I am a premium level graphic designer. I can design logo, banner, poster, brochure, businesscard, flyer, magazine, newsletter, and I am an Office365 expert. I want to express the power as an expert, in order to create benefits to the organization. Your organization/institution could trust me and I believe that you would not be mortified with my work.</p>
 
 ### EDUCATIONAL PURSUIT
 
@@ -63,7 +63,7 @@ _Major Duties performed:<br/>
 • A premium level Graphic Designer. <br/>
 • My expertise is expressed with skill, competence & knowledge to different graphic works. I am an Office365 expert also. <br/>
 •	I worked for around 220 tasks for around 100 clients.<br/>
-•	Portfolio link: [Click Here](https://bit.ly/2GoGV5N)_
+•	Portfolio link: ([Click Here](https://bit.ly/2GoGV5N))_
 
 **Employer 4**<br/>
 From: February, 2014	<br/>
@@ -114,7 +114,7 @@ Date of Birth: August 5, 1990<br/>
 Nationality: Bangladeshi<br/>
 Religion:	Islam<br/>
 Marital Status: Single<br/>
-Permanent Address: Block: A, House No: 50/1, Kumar Para, Sylhet -3100 [_Click Here_](https://goo.gl/maps/5of6DdnjzLEf8ezE9)
+Permanent Address: Block: A, House No: 50/1, Kumar Para, Sylhet -3100 ([_Click Here_](https://goo.gl/maps/5of6DdnjzLEf8ezE9))
 
 
 **Click Below For Portfolio Links**<br/>
