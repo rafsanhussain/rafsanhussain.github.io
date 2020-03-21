@@ -8,7 +8,7 @@
 
 <p align="justify">I am a premium level graphic designer. I can design logo, banner, poster, brochure, businesscard, flyer, magazine, newsletter, and I am an Office365 expert. I want to express the power as an expert, in order to create benefits to the organization. Your organization/institution could trust me and I believe that you would not be mortified with my work.</p>
 
-### EDUCATIONAL PURSUIT
+### Educational Pursuit
 
 **Master of Science in Forestry from the Department of Forestry and Environmental Science**,<br/>
 [Shahjalal University of Science & Technology, Sylhet-3114](https://www.sust.edu/)<br/>
@@ -27,12 +27,12 @@ Session: 2006-07 (Exam held on: 2008)<br/>
 Group: Science, Board: Sylhet
 
 
-### TECHNICAL SKILLS
+### Technical Skills
 **Application Package:** MS Word, MS Excel, MS PowerPoint, MS Publisher, MS Access.<br/>
 **Graphic Design Software:** Adobe Illustrator, Photoshop, InDesign, Adobe Flash, After Effects.<br/>
 **Analysing Package:** SPSS, MATLAB, ArcGIS, ENVI, ERDAS, R-software, Agisoft.<br/>
 
-### PROFESSIONAL TRAINING / DEVELOPMENT PROGRAM:
+### Professional Training / Development Program
 
 **Employer 1**<br/>
 From: October 1, 2018<br/>	
@@ -81,7 +81,7 @@ Employer: International Union for Conservation of Nature ([IUCN](https://www.iuc
 _Major Duties performed:<br/>
 Collected community oriented data in the rural areas for “Baseline Study of Community Based Sustainable Management of Tanguar Haor Project._
 
-### OTHER TRAINING
+### Other Training
 
 **July 22, 2017 to April 21, 2018 (3 Phases)**<br/>
 Training on **“Capacity building for remote sensing and GIS researchers on the use of UAV (Unmanned Aerial Vehicle) images and its application in natural resource management",** <br/>
@@ -95,18 +95,25 @@ Conducted by, “Department of Forestry and Environmental Science, Shahjalal Uni
 Workshop on **“Birds of Tanguar Haor; Species Diversity, Habitat Utilization & Conservation Initiatives through Local Community”,** <br/>
 Conducted by, International Union for Conservation of Nature ([IUCN](https://www.iucn.org/asia/countries/bangladesh)).
 
-### INTERNSHIP TRAINING:
+### Internship Training
 Took part on four weeks internship at **Citrus Research Station, Jaintapur, Sylhet**
 
-### LANGUAGE PROFICIENCY:
+### Language Proficiency
 Bengali: Excellent in speaking, reading, listening and writing<br/>
 English: Excellent in speaking, reading, listening and writing
 
-### MEMBERSHIP:
-Lifetime Member, Green Explore Society<br/>
-A non-political, student oriented, nature and environment based organization. 
+### Membership
+(1) Lifetime Member, Green Explore Society<br/>
+A non-political, student oriented, nature and environment based organization.
 
-### PERSONAL INFORMATION
+(2) Life Member, and Office Secretary (Running), Executive Committee-1<br/>
+JCPSC Alumni Association<br/>
+A ex student's forum from the Jalalabad Cantonment Public School and College.
+
+(3) Member, Institute of Foresters, Bangladesh<br/>
+A forum for all the forestry graduates from Bangladesh since the past.
+
+### Personal Information
 
 Father’s Name: Md. Liaquat Hussain<br/>
 Mother’s Name: Shabera Begum<br/>
@@ -125,7 +132,7 @@ Permanent Address: Block: A, House No: 50/1, Kumar Para, Sylhet -3100 ([_Click H
 [Freelancer ↗](https://www.freelancer.com/u/rafsan456?w=f&ngsw-bypass=)<br/>
 [Fiverr ↗](https://www.fiverr.com/rafsanhussain?up_rollout=true)
 
-**Contact Info**<br/>
+**Click Below To Contact**<br/>
 [Email ↗](mailto:rafsan.hussain@gmail.com)<br/>
 [Mobile 1 ↗](tel:+8801672207031)<br/>
 [Mobile 2 ↗](tel:+8801723326065)<br/>
