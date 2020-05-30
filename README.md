@@ -4,7 +4,7 @@
 
 <img src="Images/rafsan.png" align="right" height="300" />
 
-<img src="Images/gif.png"/>
+<img src="Images/gif.gif"/>
 
 <p align="justify">I am always keen to expand the spectrum of my skills to fit into new research or job environments. Specifically, I am confident to adapt quickly and work in a team comprising personals from multiple disciplines. I always deliver what’s promised. Through solid organizational skills, interpersonal abilities, personal drive and enthusiasm, I made a positive impact on my portfolio. Act now and discover my portfolio.</p>
 
