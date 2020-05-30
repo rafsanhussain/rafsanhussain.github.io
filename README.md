@@ -1,8 +1,7 @@
 ## Md. Rafsan Hussain
 
-<a href="https://drive.google.com/u/0/uc?id=1uhS3sm9mUFr2UB22Ob1pX49BwWTKx77J&export=download"><b>Download CV (.PDF)</b></a>
-<img src="Images/gif.gif"/>
-
+<a href="https://drive.google.com/u/0/uc?id=1uhS3sm9mUFr2UB22Ob1pX49BwWTKx77J&export=download"><b>Download CV (.PDF)</b></a><br/>
+<img src="Images/gif.gif"/><br/>
 <img src="Images/rafsan.png" align="right" height="300" />
 
 <p align="justify">I am always keen to expand the spectrum of my skills to fit into new research or job environments. Specifically, I am confident to adapt quickly and work in a team comprising personals from multiple disciplines. I always deliver what’s promised. Through solid organizational skills, interpersonal abilities, personal drive and enthusiasm, I made a positive impact on my portfolio. Act now and discover my portfolio.</p>
