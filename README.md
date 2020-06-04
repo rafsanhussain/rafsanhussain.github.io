@@ -127,12 +127,11 @@ Permanent Address: Block: A, House No: 50/1, Kumar Para, Sylhet -3100 ([_Click H
 
 **Click Below For Portfolio Links**<br/>
 <a href="https://www.facebook.com/mohammedrafsanhussain"><img src="Images/facebook.png"></a><br/>
-[Facebook ↗](https://www.facebook.com/mohammedrafsanhussain)<br/>
-[Twitter ↗](https://twitter.com/rafsan_hussain)<br/>
-[LinkedIn ↗](https://www.linkedin.com/in/rafsanhussain/)<br/>
-[Upwork ↗](https://www.upwork.com/o/profiles/users/~0187e4cebda52df57c/)<br/>
-[Freelancer ↗](https://www.freelancer.com/u/rafsan456?w=f&ngsw-bypass=)<br/>
-[Fiverr ↗](https://www.fiverr.com/rafsanhussain?up_rollout=true)
+<a href="https://twitter.com/rafsan_hussain"><img src="Images/twitter.png"></a><br/>
+<a href="https://www.linkedin.com/in/rafsanhussain/"><img src="Images/linkedin.png"></a><br/>
+<a href="https://www.upwork.com/o/profiles/users/~0187e4cebda52df57c/"><img src="Images/upwork.png"></a><br/>
+<a href="https://www.freelancer.com/u/rafsan456?w=f&ngsw-bypass="><img src="Images/freelancer.png"></a><br/>
+<a href="https://www.fiverr.com/rafsanhussain?up_rollout=true"><img src="Images/fiverr.png"></a><br/>
 
 **Click Below To Contact**<br/>
 [Email ↗](mailto:rafsan.hussain@gmail.com)<br/>
