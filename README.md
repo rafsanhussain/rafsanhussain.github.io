@@ -1,8 +1,7 @@
-## Md. Rafsan Hussain
+## MD RAFSAN HUSSAIN
 
-<a href="https://drive.google.com/u/0/uc?id=1uhS3sm9mUFr2UB22Ob1pX49BwWTKx77J&export=download"><b>Download CV (.PDF)</b></a><br/>
+<a href="https://drive.google.com/u/0/uc?id=1uhS3sm9mUFr2UB22Ob1pX49BwWTKx77J&export=download"><img src="icons/download.png"></a><br/>
 <br/>
-<img src="Images/gif.gif"/><br/>
 <img src="Images/rafsan.png" align="right" height="300" />
 
 <p align="justify">I am always keen to expand the spectrum of my skills to fit into new research or job environments. Specifically, I am confident to adapt quickly and work in a team comprising personals from multiple disciplines. I always deliver what’s promised. Through solid organizational skills, interpersonal abilities, personal drive and enthusiasm, I made a positive impact on my portfolio. Act now and discover my portfolio.</p>
@@ -122,18 +121,19 @@ Date of Birth: August 5, 1990<br/>
 Nationality: Bangladeshi<br/>
 Religion:	Islam<br/>
 Marital Status: Single<br/>
-Permanent Address: Block: A, House No: 50/1, Kumar Para, Sylhet -3100 ([_Click Here_](https://goo.gl/maps/5of6DdnjzLEf8ezE9))
+Permanent Address: Block: A, House No: 50/1, Kumar Para, Sylhet -3100 ([_See Map_](https://goo.gl/maps/5of6DdnjzLEf8ezE9))
 
 
 **Click Below For Portfolio Links**<br/>
-<a href="https://www.facebook.com/mohammedrafsanhussain"><img src="Images/facebook.png"></a>
-<a href="https://twitter.com/rafsan_hussain"><img src="Images/twitter.png"></a>
-<a href="https://www.linkedin.com/in/rafsanhussain/"><img src="Images/linknedin.png"></a>
-<a href="https://www.upwork.com/o/profiles/users/~0187e4cebda52df57c/"><img src="Images/upwork.png"></a>
-<a href="https://www.freelancer.com/u/rafsan456?w=f&ngsw-bypass="><img src="Images/freelancer.png"></a>
-<a href="https://www.fiverr.com/rafsanhussain?up_rollout=true"><img src="Images/fiverr.png"></a><br/>
+<a href="https://www.facebook.com/mohammedrafsanhussain"><img src="icons/facebook.png"></a>
+<a href="https://twitter.com/rafsan_hussain"><img src="icons/twitter.png"></a>
+<a href="https://www.linkedin.com/in/rafsanhussain/"><img src="icons/linkedin.png"></a>
+<a href="https://www.instagram.com/m.rafsanhussain/"><img src="icons/instagram.png"></a>
+<a href="https://www.upwork.com/o/profiles/users/~0187e4cebda52df57c/"><img src="icons/upwork.png"></a>
+<a href="https://www.freelancer.com/u/rafsan456?w=f&ngsw-bypass="><img src="icons/freelancer.png"></a>
+<a href="https://www.fiverr.com/rafsanhussain?up_rollout=true"><img src="icons/fiverr.png"></a><br/>
 
 **Click Below To Contact**<br/>
-[Email ↗](mailto:rafsan.hussain@gmail.com)<br/>
-[Mobile 1 ↗](tel:+8801672207031)<br/>
-[Mobile 2 ↗](tel:+8801723326065)<br/>
+<a href="mailto:rafsan.hussain@gmail.com"><img src="icons/email.png"></a>
+<a href="tel:+8801723326065"><img src="icons/mobile.png"></a>
+<a href="whatsapp://tel:+8801672207031"><img src="icons/whatsapp.png"></a>
